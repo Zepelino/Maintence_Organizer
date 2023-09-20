@@ -1,0 +1,9 @@
+C:\Users\Tintepoxi\Documents\Organizador\.mono\temp\bin\Debug\Organizador.dll
+C:\Users\Tintepoxi\Documents\Organizador\.mono\temp\bin\Debug\Organizador.pdb
+C:\Users\Tintepoxi\Documents\Organizador\.mono\temp\obj\Debug\Organizador.csproj.AssemblyReference.cache
+C:\Users\Tintepoxi\Documents\Organizador\.mono\temp\obj\Debug\Organizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tintepoxi\Documents\Organizador\.mono\temp\obj\Debug\Organizador.AssemblyInfoInputs.cache
+C:\Users\Tintepoxi\Documents\Organizador\.mono\temp\obj\Debug\Organizador.AssemblyInfo.cs
+C:\Users\Tintepoxi\Documents\Organizador\.mono\temp\obj\Debug\Organizador.csproj.CoreCompileInputs.cache
+C:\Users\Tintepoxi\Documents\Organizador\.mono\temp\obj\Debug\Organizador.dll
+C:\Users\Tintepoxi\Documents\Organizador\.mono\temp\obj\Debug\Organizador.pdb

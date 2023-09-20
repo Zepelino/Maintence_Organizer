@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lNhyWFaWlxvNVkcvbH4wVRKn96wVbUTAjKcSRSg5RHkRWUb2A+9lTs5DZhRcIAsrdclqIvxbN1QztDCEGhMlUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tintepoxi\\Documents\\Organizador\\Organizador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tintepoxi\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Tintepoxi\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
