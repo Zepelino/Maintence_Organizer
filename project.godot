@@ -40,6 +40,8 @@ _global_script_class_icons={
 
 config/name="Organizador"
 run/main_scene="res://src/scenes/Main.tscn"
+boot_splash/image="res://src/resources/images/icon.png"
+config/icon="res://src/resources/images/icon.png"
 
 [autoload]
 
@@ -48,7 +50,7 @@ Geral="*res://src/utilities/Geral.tscn"
 
 [editor_plugins]
 
-enabled=PoolStringArray( "res://addons/calendar_button/plugin.cfg" )
+enabled=PoolStringArray( "res://addons/calendar_button/plugin.cfg", "res://addons/godot_icon/plugin.cfg" )
 
 [gui]
 

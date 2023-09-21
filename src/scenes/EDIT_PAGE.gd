@@ -59,12 +59,12 @@ func _on_submit_button_up():
 		get_node(path).modulate = Color.white
 		
 		if get_node(path) is LineEdit or get_node(path) is TextEdit:
-			if get_node(path).text == '':
-				lacking = true
-				get_node(path).modulate = Color.firebrick
-				continue
-			else:
-				values[path] = get_node(path).text
+			#if get_node(path).text == '':
+			#	lacking = true
+			#	get_node(path).modulate = Color.firebrick
+			#	continue
+			#else:
+			values[path] = get_node(path).text
 		else:
 			if get_node(path).line.text == '':
 				lacking = true
