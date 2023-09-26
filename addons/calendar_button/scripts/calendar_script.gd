@@ -12,7 +12,7 @@ var calendar_buttons : CalendarButtons
 
 func _enter_tree():
 	set_toggle_mode(true)
-	setup_calendar_icon()
+	#setup_calendar_icon()
 	popup = create_popup_scene()
 	calendar_buttons = create_calendar_buttons()
 	setup_month_and_year_signals(popup)

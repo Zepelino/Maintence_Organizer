@@ -1,6 +1,7 @@
 [gd_scene format=2]
 
 [node name="popup" type="Popup"]
+visible = true
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -23,17 +24,17 @@ margin_right = 252.0
 margin_bottom = 20.0
 alignment = 1
 
-[node name="button_prev_month" type="Button" parent="PanelContainer/vbox/hbox_month_year"]
-margin_left = 43.0
-margin_right = 63.0
-margin_bottom = 20.0
-text = "<"
-
 [node name="button_prev_year" type="Button" parent="PanelContainer/vbox/hbox_month_year"]
-margin_left = 67.0
-margin_right = 95.0
+margin_left = 43.0
+margin_right = 71.0
 margin_bottom = 20.0
 text = "<<"
+
+[node name="button_prev_month" type="Button" parent="PanelContainer/vbox/hbox_month_year"]
+margin_left = 75.0
+margin_right = 95.0
+margin_bottom = 20.0
+text = "<"
 
 [node name="label_month_year" type="Label" parent="PanelContainer/vbox/hbox_month_year"]
 margin_left = 99.0
@@ -44,17 +45,17 @@ text = "Jan 2016"
 align = 1
 valign = 1
 
-[node name="button_next_year" type="Button" parent="PanelContainer/vbox/hbox_month_year"]
-margin_left = 157.0
-margin_right = 185.0
-margin_bottom = 20.0
-text = ">>"
-
 [node name="button_next_month" type="Button" parent="PanelContainer/vbox/hbox_month_year"]
-margin_left = 189.0
-margin_right = 209.0
+margin_left = 157.0
+margin_right = 177.0
 margin_bottom = 20.0
 text = ">"
+
+[node name="button_next_year" type="Button" parent="PanelContainer/vbox/hbox_month_year"]
+margin_left = 181.0
+margin_right = 209.0
+margin_bottom = 20.0
+text = ">>"
 
 [node name="hbox_deadspace" type="HBoxContainer" parent="PanelContainer/vbox"]
 margin_top = 24.0

@@ -60,6 +60,16 @@ theme = ExtResource( 2 )
 custom_fonts/font = SubResource( 1 )
 text = "Adicionar"
 
+[node name="Label" type="Label" parent="."]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -82.0
+margin_top = -13.0
+theme = ExtResource( 2 )
+text = "V250923-1529"
+
 [connection signal="request_completed" from="HTTPRequest" to="." method="_on_HTTPRequest_request_completed"]
 [connection signal="button_up" from="HBoxContainer/search" to="." method="_on_search_button_up"]
 [connection signal="button_up" from="HBoxContainer/add" to="." method="_on_add_button_up"]
